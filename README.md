@@ -1,4 +1,4 @@
-# Val - My Snap! Game
+# Meteor-Impact - My Snap! Game
 Play the game online here:
 
 👉 https://sleepy233.github.io/Meteor-Impact/
